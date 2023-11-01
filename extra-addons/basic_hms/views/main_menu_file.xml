@@ -63,9 +63,9 @@
                 sequence='9'/>
 
         <menuitem id="main_menu_register"
-            name="Register"
-            parent="main_menu_hospital_management"
-            sequence='14'
+                name="預約"
+                parent="main_menu_hospital_management"
+                sequence='14'
         />
 
 </openerp>
